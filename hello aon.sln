@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hello aon", "hello aon\hello aon.csproj", "{1463C151-6916-4178-B699-96457757D544}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello aon 2", "hello aon 2\hello aon 2.csproj", "{3D1EA406-7465-4827-9329-1E529620A4CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hello aon 1", "hello aon 2\hello aon 1.csproj", "{3D1EA406-7465-4827-9329-1E529620A4CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

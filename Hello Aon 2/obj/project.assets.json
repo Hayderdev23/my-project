@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\asp.net\\hello awn\\hi hayder\\hello aon 2\\hello aon 2.csproj",
-      "projectName": "hello aon 2",
-      "projectPath": "D:\\asp.net\\hello awn\\hi hayder\\hello aon 2\\hello aon 2.csproj",
+      "projectUniqueName": "D:\\asp.net\\hello awn\\hi hayder\\hello aon 2\\hello aon 1.csproj",
+      "projectName": "hello aon 1",
+      "projectPath": "D:\\asp.net\\hello awn\\hi hayder\\hello aon 2\\hello aon 1.csproj",
       "packagesPath": "C:\\Users\\hayder\\.nuget\\packages\\",
       "outputPath": "D:\\asp.net\\hello awn\\hi hayder\\hello aon 2\\obj\\",
       "projectStyle": "PackageReference",
