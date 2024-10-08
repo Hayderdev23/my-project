@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\asp.net\\hello awn\\hello aon\\hello aon 2\\hello aon 2.csproj",
+      "projectUniqueName": "D:\\asp.net\\hello awn\\hi hayder\\hello aon 2\\hello aon 2.csproj",
       "projectName": "hello aon 2",
-      "projectPath": "D:\\asp.net\\hello awn\\hello aon\\hello aon 2\\hello aon 2.csproj",
+      "projectPath": "D:\\asp.net\\hello awn\\hi hayder\\hello aon 2\\hello aon 2.csproj",
       "packagesPath": "C:\\Users\\hayder\\.nuget\\packages\\",
-      "outputPath": "D:\\asp.net\\hello awn\\hello aon\\hello aon 2\\obj\\",
+      "outputPath": "D:\\asp.net\\hello awn\\hi hayder\\hello aon 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hayder\\AppData\\Roaming\\NuGet\\NuGet.Config",
