@@ -11,7 +11,7 @@ var pass = Console.ReadLine();
 
 if (name == enduser )
 {
-    Console.WriteLine("Username IS CORECT");
+    Console.WriteLine("Username IS CORRECT");
 }
 else
 {
@@ -21,7 +21,7 @@ else
 
 if (pass==endpass)
 {
-    Console.WriteLine("Password IS CORECT");   
+    Console.WriteLine("Password IS CORRECT");   
 }
 
 else
